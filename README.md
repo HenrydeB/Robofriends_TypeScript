@@ -1,4 +1,4 @@
-# Robofriends: A contact list app
+# Robofriends: A contact list app, edited to use TypeScript!
 
 ## Table of contents
 * [General info](#general-info)
@@ -16,6 +16,7 @@ This is a simple program that uses a Robofriends API to create a list of contact
 * React
 * Bootstrap
 * Robofriends API
+* This also uses TypeScript! My first time using it
 
 ## Live Version
 Please follow the link and give it a try!!
